@@ -15,7 +15,9 @@ Time spent: 3 hours spent in total
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/qDlbsgJ.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+![alt tag](https://github.com/anmolkhanna93/tumblr-Feed/blob/master/tumblrFeed.gif)
+
 
 ## License
 
