@@ -9,24 +9,7 @@ Submitted by: Anmol Khanna
 
 Time spent: 3 hours spent in total
 
-## User Stories
 
-The following **required** functionality is complete:
-
-[1] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
-
-[2] User can choose the tip percentages from 18%, 20%, 25%.
-
-
-The following **optional** features are implemented:
-
-[1]  I have enhanced the user interface for my application.
-
-[2] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
-
-The following **additional** features are implemented:
-
-[1]  I have also added a slider for splitting the total bill among the group members. For now the maximum number of people is five.
 
 ## Video Walkthrough 
 
