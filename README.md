@@ -13,7 +13,7 @@ Time spent: 3 hours spent in total
 
 ## Video Walkthrough 
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of implementation:
 
 
 ![alt tag](https://github.com/anmolkhanna93/tumblr-Feed/blob/master/tumblrFeed.gif)
